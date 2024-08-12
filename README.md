@@ -1,28 +1,29 @@
-## Hi there 👋 I'm Alexander
+### Hi there 👋 I'm Alexander
 
+![Coding Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+## 🧑🏻‍💻 About Me
+🌱 I am a frontend developer and sometimes and sometimes a backend developer  
+with over a year and a half of experience in creating and improving web applications. 
 
-<!--
-**Pr9nek/Pr9nek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 During this time, I've mastered modern technologies to build projects   
+🕹 that are not only visually appealing but also highly functional.  
 
-Here are some ideas to get you started:
+🌱 The world of web development captivates me with its endless opportunities for growth and self-improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I pay great attention to detail and strive to create user-friendly and intuitive interfaces.  
+- I’m passionate about learning new technologies and approaches to development,
+- so I can create products that bring real value to users.
 
-### ⚡ Tech Stack
+My goal is to join a team where I can continue to develop my skills and work together to create projects that make the world a better place.
+
+## ⚡ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![BEM](https://img.shields.io/badge/-BEM-000?&logo=BEM)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
@@ -39,3 +40,15 @@ Here are some ideas to get you started:
 ![TypeORM](https://img.shields.io/badge/-TypeORM-000?&logo=TypeORM)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![ES6](https://img.shields.io/badge/-ES6-000?&logo=JavaScript)
+
+## Моя статистика
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Pr9nek&show_icons=true&theme=gotham" alt="Pr9nek" />  
+ 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr9nek&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Contact
+
+- 🌍 Currently in Batumi, Georgia, but open to relocation and remote work.
+- 📧 [aleks.pr9n@yandex.ru](mailto:aleks.pr9n@yandex.ru)
+- [Telegram](https://t.me/pr9nek)
