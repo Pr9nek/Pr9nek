@@ -3,7 +3,7 @@
 ![Coding Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🧑🏻‍💻 About Me
-🌱 I am a frontend developer and sometimes and sometimes a backend developer  
+🌱 I am a frontend developer and sometimes a backend developer  
 with over a year and a half of experience in creating and improving web applications. 
 
 💻 During this time, I've mastered modern technologies to build projects   
