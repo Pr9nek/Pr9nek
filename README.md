@@ -41,6 +41,28 @@ My goal is to join a team where I can continue to develop my skills and work tog
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![ES6](https://img.shields.io/badge/-ES6-000?&logo=JavaScript)
 
+## Experience
+
+### Frontend Developer (Internship) at 5D Hub
+**December 2024 – June 2025**
+- **Responsibilities:** Developed a client's website based on a design mockup as part of a development team.
+- **Stack:** Nest, TypeScript, SCSS
+
+### Web Development Program at Yandex Practicum
+**March 2023 – September 2024**
+- Completed an intensive program, where I honed my coding and teamwork skills by working on high-tech projects and collaborating on complex tasks.
+- **Stack:** HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, Nest, Jest, Cypress, Docker.
+- **Key Projects:**
+  - **ProCharity Project** (https://procharity.ru/)
+    - Implemented page layouts and developed React components for a live website.
+    - Contributed to building a custom CRM system to optimize costs and expand client capabilities.
+    - **Stack:** TypeScript, React, SCSS, Moleculer, MongoDB, Redis, Storybook, Chromatic, Jest, Husky, ESLint, Prettier.
+  - **Botkits** (https://botkits.ru/)
+    - Developed UI kit components for the project.
+    - **Stack:** HTML, JS, SCSS
+
+---
+
 ## Моя статистика
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Pr9nek&show_icons=true&theme=gotham" alt="Pr9nek" />  
  
