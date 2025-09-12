@@ -4,7 +4,7 @@
 
 ## 🧑🏻‍💻 About Me
 🌱 I am a frontend developer and sometimes a backend developer  
-with over a year and a half of experience in creating and improving web applications. 
+with over 2 years of experience in creating and improving web applications. 
 
 💻 During this time, I've mastered modern technologies to build projects   
 🕹 that are not only visually appealing but also highly functional.  
